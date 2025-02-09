@@ -11,3 +11,6 @@ The requirements.txt file specifies the necessary Python libraries. We recommend
 
 Sensor_points.txt and interpolation_points.txt should be updated based on the sensor locations and a mapping point for pressure measurement.
 Run Interface_2D.py and Interface_3D.py for 2D and 3D pressure mats, respectively.
+
+Acknowledgment
+Thanks to Jessica Tsai for designing and developing the GUI.
