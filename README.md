@@ -14,3 +14,7 @@ Run Interface_2D.py and Interface_3D.py for 2D and 3D pressure mats, respectivel
 
 Acknowledgment
 Thanks to Jessica Tsai for designing and developing the GUI.
+
+![image](https://github.com/user-attachments/assets/cd95590e-aa33-4963-903e-c97e5d46eee7)
+
+3D-pressure mapping software
